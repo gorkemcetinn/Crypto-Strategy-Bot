@@ -42,9 +42,11 @@ BINANCE_API_SECRET=your_testnet_secret
 API anahtarlarını Binance Testnet’ten alabilirsin: https://testnet.binance.vision/
 
 
-### 3. Kafka ve Zookeeper’ı Başlat (lokal veya Docker)
+### 3. Kafka Başlat (Docker)
 
-Kafka’nın 9092 portunda çalıştığından emin ol.
+```bash
+docker-compose -f docker-compose.yaml up -d
+```
 
 ### 4. Botu Başlat
 
