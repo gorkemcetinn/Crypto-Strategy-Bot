@@ -64,8 +64,14 @@ python starter.py
 | dotenv       | API bilgilerinin gizli tutulması            |
 | threading    | Producer ve consumer'ı eşzamanlı çalıştırma |
 
+### 5. Uyarı
+- Bu sistem testnet ortamı içindir; gerçek para riski yoktur.
 
-### 5. Lisans
+- Gerçek alım-satım yapmadan önce tüm stratejiler test edilmelidir.
+
+- Proje, yatırım tavsiyesi değildir
+
+### 6. Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır.
 
 
